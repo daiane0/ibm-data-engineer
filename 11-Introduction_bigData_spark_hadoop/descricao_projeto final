@@ -1,0 +1,8 @@
+INTRODUÇÃO
+Este projeto foca em dominar o Spark SQL, um componente poderoso do Apache Spark que permite trabalhar com dados estruturados usando consultas semelhantes a SQL. Você criará um DataFrame a partir de um arquivo CSV, definirá um esquema para os dados e aproveitará o Spark SQL para realizar transformações e ações nos dados.
+
+CENÁRIO
+
+Você foi designado pelo departamento de recursos humanos de uma empresa para criar um pipeline de dados capaz de receber dados de funcionários em formato CSV. Suas responsabilidades incluem analisar os dados, aplicar quaisquer transformações necessárias e facilitar a extração de insights valiosos a partir dos dados processados.
+
+Dado o seu papel como engenheiro de dados, você foi solicitado a utilizar os componentes do Apache Spark para realizar as tarefas.
