@@ -1,0 +1,30 @@
+[submodule "3-Etl_largest_banks"]
+    path = 3-Etl_largest_banks
+    url = https://github.com/daiane0/3-Etl_largest_banks
+
+[submodule "4-modelagem_implementacao_banco-de-dados"]
+    path = 4-modelagem_implementacao_banco-de-dados
+    url = https://github.com/daiane0/4-modelagem_implementacao_banco-de-dados
+
+[submodule "8-pipeline_toll_data"]
+    path = 8-pipeline_toll_data
+    url = https://github.com/daiane0/8-pipeline_toll_data
+    
+
+[submodule "solid_waste_project"]
+    path = solid_waste_project
+    url = https://github.com/daiane0/solid_waste_project
+
+[submodule "solid_waste_project"]
+    path = solid_waste_project
+    url = https://github.com/daiane0/solid_waste_project
+
+
+[submodule "Billing_DataWareHouse_Design"]
+    path = Billing_DataWareHouse_Design
+    url = https://github.com/daiane0/Billing_DataWareHouse_Design
+    
+    
+[submodule "Etl_pib"]
+    path = Etl_pib
+    url = https://github.com/daiane0/Etl_pib
