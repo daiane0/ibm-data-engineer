@@ -28,3 +28,6 @@
 [submodule "Etl_pib"]
     path = Etl_pib
     url = https://github.com/daiane0/Etl_pib
+[submodule "data-platform-architecture"]
+	path = data-platform-architecture
+	url = https://github.com/daiane0/data-platform-architecture.git
